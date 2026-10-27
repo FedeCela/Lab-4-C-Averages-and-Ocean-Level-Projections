@@ -2,16 +2,16 @@
 using namespace std;
 
 int main() {
-        int number1 = 28; 
-        int number2 = 32; 
-        int number3 = 37;
-        int number4 = 24;
-        int number5 = 33;
+    double number1 = 28;
+    double number2 = 32;
+    double number3 = 37;
+    double number4 = 24;
+    double number5 = 33;
 
-    int sum = number1 + number2 + number3 + number4 + number5;
-    int result= sum / 5
-    cout << "The sum is: " << result << endl;
-    cout << "The average is: " << result << endl;
+    double sum = number1 + number2 + number3 + number4 + number5;
+    double average = sum / 5;
+    cout << "The sum is: " << sum << endl;
+    cout << "The average is: " << average << endl;
 
     return 0;
 }

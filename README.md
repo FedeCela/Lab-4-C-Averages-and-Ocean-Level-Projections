@@ -11,3 +11,17 @@ We know that the ocean increases 1.5 mm per year, so the calculation was easy yo
 Annual ocean-level rate is a grate name for a constant because on this scenario is always the same every year 1.5 mm.
 
 if the calculations are stored before using cout is easier for the programmer to understand where the values are coming from, where the bugs are and what could they be.
+
+# average.cpp test: 
+test values:28, 32, 37, 24, 33
+spected results: 154
+sum:154
+average: 30.8
+actual result match my manual calculations
+
+test values:1, 5, 2, 3, 6
+spected results: 17
+sum:17
+average: 3.4
+actual result match my manual calculations
+

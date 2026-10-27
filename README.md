@@ -25,3 +25,6 @@ sum:17
 average: 3.4
 actual result match my manual calculations
 
+# ocean_levels.cpp test:
+test values: 1.5,5, 7, 10
+spected results:

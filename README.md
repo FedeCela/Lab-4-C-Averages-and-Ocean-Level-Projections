@@ -27,4 +27,11 @@ actual result match my manual calculations
 
 # ocean_levels.cpp test:
 test values: 1.5,5, 7, 10
-spected results:
+spected results: 7.5, 10.5, 15
+actual result match my manual calculations
+
+
+test values 1.8 7, 9, 11
+spected results:12.6,16.2, 19.8
+actual result match my manual calculations
+

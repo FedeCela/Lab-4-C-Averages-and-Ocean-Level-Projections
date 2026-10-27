@@ -2,19 +2,19 @@
 using namespace std;
 
 int main() {
-    double mill = 1.5;
-    double time1 = 5;
-    double time2 = 7;
-    double time3 = 10;
+    double MM = 1.5;
+    double TIME1 = 5;
+    double TIME2 = 7;
+    double TIME3 = 10;
 
     
-    double by1 = mill * time1;
-    double by2 = mill * time2;
-    double by3 = mill * time3;
+    double BY1 = MM * TIME1;
+    double BY2 = MM * TIME2;
+    double BY3 = MM * TIME3;
 
-    cout << "after 5 years the level rised by: " << by1 << " mm" << endl;
-    cout << "after 7 years the level rised by: " << by2 << " mm" << endl;
-    cout << "after 10 years the level rised by: " << by3 << " mm" << endl;
+    cout << "after 5 years the level rised by: " << BY1 << " mm" << endl;
+    cout << "after 7 years the level rised by: " << BY2 << " mm" << endl;
+    cout << "after 10 years the level rised by: " << BY3 << " mm" << endl;
 
 
     return 0;
